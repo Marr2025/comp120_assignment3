@@ -16,6 +16,14 @@ git clone https://github.com/Marr2025/comp120_assignment3.git
 cd comp120_assignment3
 ```
 
+## Editing README locally
+To practice version control, try cloning this repo and editing the README.md file. For example, add:
+
+```
+- Added locally cloned edit
+```
+
+Then commit and push back to GitHub!
+
 ## Assignment Milestone
 See milestone `AmareWaltersLyte_v1.0 Release` for core progress tasks and issues.
-new edits
